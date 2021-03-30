@@ -4,3 +4,4 @@ b = sample(a, 15)
 (d = c^2)
 #  Esto es un comentario
 # Esto es otro comentario
+#  Y no hay dos sin tres
