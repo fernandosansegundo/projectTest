@@ -1,0 +1,26 @@
+{
+    "id": "8E23FAF7",
+    "path": "~/Dropbox/Code/R/projectTest/file001.R",
+    "project_path": "file001.R",
+    "type": "r_source",
+    "hash": "1914912919",
+    "contents": "",
+    "dirty": false,
+    "created": 1617128965102.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,15",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1617128974,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1617128974839,
+    "read_only": false,
+    "read_only_alternatives": []
+}
