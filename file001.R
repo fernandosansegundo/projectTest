@@ -8,3 +8,4 @@ b = sample(a, 15)
 # Ni mal que por bien no venga
 # Una prueba más...
 #  Y otra con aceite de rinicio
+# Vamos a ver si hemos resuelto lo del directorio de configuración
