@@ -10,3 +10,5 @@ b = sample(a, 15)
 #  Y otra con aceite de rinicio
 # Vamos a ver si hemos resuelto lo del directorio de configuración
 # Check en otra máquina
+# Y ahora en Windows
+
